@@ -1,0 +1,5 @@
+{
+  "name": "React Bits - Cosmic Particles",
+  "description": "An interactive particle animation that mimics the dance of the cosmos, built with React and OGL.",
+  "requestFramePermissions": []
+}
